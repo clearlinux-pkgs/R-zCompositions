@@ -4,7 +4,7 @@
 #
 Name     : R-zCompositions
 Version  : 1.1.1
-Release  : 5
+Release  : 6
 URL      : https://cran.r-project.org/src/contrib/zCompositions_1.1.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/zCompositions_1.1.1.tar.gz
 Summary  : Treatment of Zeros and Nondetects in Compositional Data Sets
