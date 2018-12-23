@@ -4,7 +4,7 @@
 #
 Name     : R-zCompositions
 Version  : 1.1.2
-Release  : 11
+Release  : 12
 URL      : https://cran.r-project.org/src/contrib/zCompositions_1.1.2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/zCompositions_1.1.2.tar.gz
 Summary  : Treatment of Zeros, Left-Censored and Missing Values in
